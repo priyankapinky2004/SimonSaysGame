@@ -23,13 +23,13 @@ A fun memory-based game where players must repeat an increasing sequence of colo
 
 ## 📷 Screenshots  
 ### Game Over Screen  
-![Game Over](screenshots/game-over.png)  
+<img src="screenshots/game-over.jpg" alt="Game Over" width="400px">
 
 ### Gameplay in Action  
-![Gameplay](screenshots/gameplay.jpg)  
+<img src="screenshots/gameplay.jpg" alt="Gameplay" width="400px">
 
 ### Higher Levels  
-![Higher Levels](screenshots/level-progress.png)  
+<img src="screenshots/level-progress.png" alt="Higher Levels" width="400px">
 
 ## 🔥 How to Clone and Run?  
 1️⃣ Clone this repository:  
