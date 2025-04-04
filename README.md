@@ -26,7 +26,7 @@ A fun memory-based game where players must repeat an increasing sequence of colo
 ![Game Over](screenshots/game-over.png)  
 
 ### Gameplay in Action  
-![Gameplay](screenshots/gameplay.png)  
+![Gameplay](screenshots/gameplay.jpg)  
 
 ### Higher Levels  
 ![Higher Levels](screenshots/level-progress.png)  
